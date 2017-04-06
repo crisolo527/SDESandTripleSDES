@@ -1,4 +1,5 @@
-Running Direction: Pre-Run:
+Running Direction: 
+Pre-Run:
 	-Place all files in the same package so there are no import errors. 
 	-Every class has a main function so you can just run each file in eclipse. 	
 	-To change inputs(keys, plaintext, ciphers) you must edit the code.
